@@ -20,26 +20,26 @@ Returns:   Date, Venue, Location
 
 ### Search Type:  [Song]
 
-(No Parameter/Default)
+* (No Parameter/Default)
 (https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-default.png) 
-Command line:  node liri.js spotify-this-song 
+* Command line:  node liri.js spotify-this-song 
 
-(With a Song Parameter)
+* (With a Song Parameter)
 (https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-with-parameter.png)
-Command line:  node liri.js spotify-this-song [song and/or artist name] 
-Returns:   Artist, Song, Album, Preview
+* Command line:  node liri.js spotify-this-song [song and/or artist name] 
+* Returns:   Artist, Song, Album, Preview
 
 ### Search Type:  [Movie]
 
-(With Movie Parameter)
+* (With Movie Parameter)
 (https://github.com/brintzamiles/liri-node-app/blob/master/images/movie-this-with-parameter.png)  
-Command line:  node liri.js movie-this [movie name] parameter.PNG
-Returns:  Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
+* Command line:  node liri.js movie-this [movie name] parameter.PNG
+* Returns:  Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
 
-(No Parameter/Default)
+* (No Parameter/Default)
 (https://github.com/brintzamiles/liri-node-app/blob/master/images/movie-this-default.png)  
-Command line:  node liri.js movie-this
-Returns:  Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
+* Command line:  node liri.js movie-this
+* Returns:  Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
 
 
 ### Search Type:  [Do as you're told (From File)]
