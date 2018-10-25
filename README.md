@@ -22,7 +22,7 @@ Returns:   Date, Venue, Location
 
 * (No Parameter/Default)
 (https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-default.png) 
-* Command line:  node liri.js spotify-this-song 
+** Command line:  node liri.js spotify-this-song 
 
 * (With a Song Parameter)
 (https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-with-parameter.png)
