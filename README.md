@@ -17,20 +17,20 @@ Returns:   Date, Venue, Location
 
 Search Type:  [Song](https://raw.githubusercontent.com/brintzamiles/liri-node-app/master/images/spotify-this-song-default.PNG) 
 Command line:  node liri.js spotify-this-song 
-(https://raw.githubusercontent.com/brintzamiles/liri-node-app/master/images/spotify-this-song-with-parameter.PNG)
+(https://raw.githubusercontent.com/brintzamiles/liri-node-app/master/images/spotify-this-song-with-)
 
 Command line:  node liri.js spotify-this-song [song and/or artist name] 
 Returns:   Artist, Song, Album, Preview
 
 Search Type:  [Movie](https://raw.githubusercontent.com/brintzamiles/liri-node-app/master/images/movie-this-with-parameter.PNG)  
-Command line:  node liri.js movie-this [movie name] 
+Command line:  node liri.js movie-this [movie name] parameter.PNG
 Returns:  Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
 (https://raw.githubusercontent.com/brintzamiles/liri-node-app/master/images/movie-this-default.PNG)  
 Command line:  node liri.js movie-this
 Returns:  Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
 
 
-Search Type:  [Do as you're told (From File)](https://raw.githubusercontent.com/brintzamiles/liri-node-app/master/images/do-what-it-says.PNG) 
+Search Type:  [Do as you're told (From File)](https://github.com/brintzamiles/liri-node-app/blob/master/images/do-what-it-says.png) 
 Command line:  node liri.js do-what-it-says
 Returns:  Results from query contained in the random.txt file
 
