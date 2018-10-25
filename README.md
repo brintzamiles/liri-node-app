@@ -22,7 +22,7 @@ Command line:  node liri.js spotify-this-song
 Command line:  node liri.js spotify-this-song [song and/or artist name] 
 Returns:   Artist, Song, Album, Preview
 
-Search Type:  [Movie](https://raw.githubusercontent.com/brintzamiles/liri-node-app/master/images/movie-this-with-parameter.PNG)  
+Search Type:  [Movie](https://github.com/brintzamiles/liri-node-app/blob/master/images/movie-this-with-parameter.png)  
 Command line:  node liri.js movie-this [movie name] parameter.PNG
 Returns:  Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
 (https://github.com/brintzamiles/liri-node-app/blob/master/images/movie-this-default.png)  
