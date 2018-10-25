@@ -15,7 +15,7 @@ Search Type:  [Concert](https://github.com/brintzamiles/liri-node-app/blob/maste
 Command line:  node liri.js concert-this [artist name] 
 Returns:   Date, Venue, Location
 
-Search Type:  [Song](https://raw.githubusercontent.com/brintzamiles/liri-node-app/master/images/spotify-this-song-default.PNG) 
+Search Type:  [Song](https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-default.png) 
 Command line:  node liri.js spotify-this-song 
 (https://raw.githubusercontent.com/brintzamiles/liri-node-app/master/images/spotify-this-song-with-)
 
