@@ -17,7 +17,7 @@ Returns:   Date, Venue, Location
 
 Search Type:  [Song](https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-default.png) 
 Command line:  node liri.js spotify-this-song 
-(https://raw.githubusercontent.com/brintzamiles/liri-node-app/master/images/spotify-this-song-with-)
+(https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-with-parameter.png)
 
 Command line:  node liri.js spotify-this-song [song and/or artist name] 
 Returns:   Artist, Song, Album, Preview
