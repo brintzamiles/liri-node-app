@@ -9,9 +9,12 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 *Note: You must have your own API keys to Bands in Town, OMDB, and Spotify saved to a .env file on your computer to run this program.*
 
 
-## Acceptable search strings.   
+## Acceptable search strings
 Names of artists, songs, or movies do not need to be in quotes: 
-Search Type:  [Concert](https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this.png) 
+
+### Search Type:  [Concert]
+
+(https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this.png) 
 Command line:  node liri.js concert-this [artist name] 
 Returns:   Date, Venue, Location
 
