@@ -1,4 +1,867 @@
 **************************************************************************
+User Command: node liri.js concert-this  
+
+Query:  https://rest.bandsintown.com/artists/NickiMinaj/events?app_id=undefined 
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************02/21/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Kleine Olympiahalle München 
+City:   München 
+State:  
+Country: Germany  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************02/22/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Zimný štadión Ondreja Nepelu 
+City:   Bratislava-mesto 
+State:  
+Country: Slovakia  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************02/24/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Atlas Arena 
+City:   Łódź 
+State:  
+Country: Poland  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************02/25/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Papp László Budapest Sportaréna 
+City:   Budapest 
+State:  
+Country: Hungary  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************02/28/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Mercedes-Benz Arena Berlin 
+City:   Berlin 
+State:  
+Country: Germany  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/01/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Royal Arena 
+City:   København S 
+State:  
+Country: Denmark  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/03/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Oslo Spektrum Arena 
+City:   Oslo 
+State:  
+Country: Norway  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/04/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Ericsson Globe 
+City:   Stockholm 
+State:  
+Country: Sweden  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/06/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Palais 12 
+City:   Bruxelles 
+State:  
+Country: Belgium  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/07/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Accorhotels Arena 
+City:   Paris 
+State:  
+Country: France  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/09/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Bordeaux Métropole Arena 
+City:   Floirac 
+State:  
+Country: France  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/11/2019************************************
+Artist:  Nicki Minaj  
+Venue:  The O2 Arena 
+City:   London 
+State:  
+Country: United Kingdom  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/14/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Arena Birmingham 
+City:   Birmingham 
+State:  
+Country: United Kingdom  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/15/2019************************************
+Artist:  Nicki Minaj  
+Venue:  The 3Arena 
+City:   Dublin 
+State:  
+Country: Ireland  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/17/2019************************************
+Artist:  Nicki Minaj  
+Venue:  SSE Hydro 
+City:   Glasgow 
+State:  
+Country: United Kingdom  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/18/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Manchester Arena 
+City:   Manchester 
+State:  
+Country: United Kingdom  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/20/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Rockhal 
+City:   Esch-sur-alzette 
+State:  
+Country: Luxembourg  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/22/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Festhalle Messe Frankfurt GmbH 
+City:   Frankfurt Am Main 
+State:  
+Country: Germany  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/23/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Lanxess Arena 
+City:   Köln 
+State:  
+Country: Germany  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/25/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Ziggo Dome 
+City:   Amsterdam 
+State:  
+Country: Netherlands  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/27/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Arena de Genève 
+City:   Zurich 
+State:  
+Country: Netherlands  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/28/2019************************************
+Artist:  Nicki Minaj  
+Venue:  Hallenstadion 
+City:   Geneva 
+State:  
+Country: Switzerland  
+
+**************************************************************************
+User Command: node liri.js movie-this  
+
+LIRI Response:  
+
+***************************************************************************************
+                                   Movie Information                
+***************************************************************************************
+Movie Title:  Mr. Nobody  
+Date Released:  26 Sep 2013 
+IMDB Rating:   7.9 
+Language:  English, Mohawk
+Plot:  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL:  undefined;  
+
+**************************************************************************
+User Command: node liri.js concert-this drake  
+
+Query:  https://rest.bandsintown.com/artists/drake/events?app_id=undefined 
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************10/26/2018************************************
+Artist:  Drake  
+Venue:  Oracle Arena 
+City:   Oakland 
+State:  CA
+Country: United States  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************10/26/2018************************************
+Artist:  Drake  
+Venue:  San Francisco City Hall 
+City:   San Francisco 
+State:  CA
+Country: United States  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************10/27/2018************************************
+Artist:  Drake  
+Venue:  Oracle Arena 
+City:   Oakland 
+State:  CA
+Country: United States  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************10/29/2018************************************
+Artist:  Drake  
+Venue:  Oracle Arena 
+City:   Oakland 
+State:  CA
+Country: United States  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/01/2018************************************
+Artist:  Drake  
+Venue:  Tacoma Dome 
+City:   Tacoma 
+State:  WA
+Country: United States  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/03/2018************************************
+Artist:  Drake  
+Venue:  Rogers Arena 
+City:   Vancouver 
+State:  
+Country: Canada  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/04/2018************************************
+Artist:  Drake  
+Venue:  Rogers Arena 
+City:   Vancouver 
+State:  
+Country: Canada  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/06/2018************************************
+Artist:  Drake  
+Venue:  Rogers Place 
+City:   Edmonton 
+State:  
+Country: Canada  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/07/2018************************************
+Artist:  Drake  
+Venue:  Rogers Place 
+City:   Edmonton 
+State:  
+Country: Canada  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/10/2018************************************
+Artist:  Drake  
+Venue:  Enterprise Center 
+City:   Saint Louis 
+State:  MO
+Country: United States  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/13/2018************************************
+Artist:  Drake  
+Venue:  AmericanAirlines Arena 
+City:   Miami 
+State:  FL
+Country: United States  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/14/2018************************************
+Artist:  Drake  
+Venue:  AmericanAirlines Arena 
+City:   Miami 
+State:  FL
+Country: United States  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/16/2018************************************
+Artist:  Drake  
+Venue:  State Farm Arena 
+City:   Atlanta 
+State:  GA
+Country: United States  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/17/2018************************************
+Artist:  Drake  
+Venue:  State Farm Arena 
+City:   Atlanta 
+State:  GA
+Country: United States  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************11/29/2018************************************
+Artist:  Drake  
+Venue:  Chateau Le Jardin Event Venue 
+City:   Woodbridge 
+State:  
+Country: Canada  
+
+LIRI Response:  
+
+**************************************************************************
+                        Concert Information
+****************************03/08/2019************************************
+Artist:  Drake  
+Venue:  Accorhotels Arena 
+City:   Paris 
+State:  
+Country: France  
+
+**************************************************************************
+User Command: node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/10.12.0/bin/node,/Users/brintzamiles/gt/liri-node-app/liri.js,do-what-it-says 
+
+LIRI Response:  Usage:
+    node liri.js concert-this "<artist_name>"
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+  
+
+**************************************************************************
+User Command: node liri.js spotify-this-song I Want it That Way 
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Backstreet Boys 
+Album:  The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Backstreet Boys 
+Album:  Millennium
+Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Anthem Lights 
+Album:  Covers Part IV
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Tyler and Mark 
+Album:  Beautiful Dreams
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Dynamite Boy 
+Album:  Punk Goes Pop
+Preview: null  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Manuel Costa 
+Album:  I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Ebay (Parody of "I Want It That Way" by the Backstreet Boys)  
+Artist:  "Weird Al" Yankovic 
+Album:  Poodle Hat
+Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Backstreet Boys 
+Album:  90 Sweet 90s Hits!
+Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Backstreet Boys 
+Album:  NKOTBSB
+Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Bye Bye Bye / I Want It That Way (Glee Cast Version)  
+Artist:  Glee Cast 
+Album:  Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Boyce Avenue 
+Album:  Cover Sessions, Vol. 2
+Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Steel Panther 
+Album:  I Want It That Way
+Preview: null  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Landon Austin & Julia Sheer 
+Album:  I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Scary Pockets 
+Album:  Nu Funk
+Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Ebay (Parody of "I Want It That Way" by the Backstreet Boys)  
+Artist:  "Weird Al" Yankovic 
+Album:  The Essential "Weird Al" Yankovic
+Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Scott Bradlee's Postmodern Jukebox 
+Album:  Selfies on Kodachrome
+Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Backstreet Boys 
+Album:  NOW That's What I Call 90s Pop
+Preview: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  #90s Update 
+Album:  #90s Update
+Preview: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Scott Bradlee's Postmodern Jukebox 
+Album:  PMJ Is For Lovers: The Love Song Collection
+Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  I Want It That Way  
+Artist:  Kyle Olthoff 
+Album:  I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/bb5d73d1bfe8a8b38cd5278112c7022599464c67?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+**************************************************************************
+User Command: node liri.js spotify-this-song yeah yeah  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah!  
+Artist:  Usher 
+Album:  Confessions (Special Edition)
+Preview: https://p.scdn.co/mp3-preview/8a5e4f8dce6b1a957e235185a4677841fcaafe90?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  YEAH RIGHT  
+Artist:  Joji 
+Album:  YEAH RIGHT
+Preview: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  YEAH RIGHT  
+Artist:  Joji 
+Album:  TEST DRIVE
+Preview: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  YEAH RIGHT  
+Artist:  Joji 
+Album:  SLOW DANCING IN THE DARK
+Preview: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  YEAH RIGHT  
+Artist:  Joji 
+Album:  TEST DRIVE
+Preview: https://p.scdn.co/mp3-preview/64c3dccfee6c252e7a25c59ed7c2e6f15e8c5547?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah Boy  
+Artist:  Kelsea Ballerini 
+Album:  The First Time
+Preview: https://p.scdn.co/mp3-preview/2f29ffb93c1b55a8e9dfbe35ce1db1d81e5dd405?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah  
+Artist:  Joe Nichols 
+Album:  Crickets
+Preview: https://p.scdn.co/mp3-preview/279cf907390f4abd4ff2a7678507bef22fd3a9e5?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  YEAH RIGHT  
+Artist:  Joji 
+Album:  CAN'T GET OVER YOU (feat. Clams Casino)
+Preview: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Hell Yeah  
+Artist:  Rev Theory 
+Album:  Light It Up
+Preview: null  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Heads Will Roll  
+Artist:  Yeah Yeah Yeahs 
+Album:  It's Blitz!
+Preview: null  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Maps  
+Artist:  Yeah Yeah Yeahs 
+Album:  Fever To Tell (Deluxe Remastered)
+Preview: null  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah Yeah (feat. 50 Cent and Murda Beatz)  
+Artist:  Don Q 
+Album:  Yeah Yeah (feat. 50 Cent and Murda Beatz)
+Preview: https://p.scdn.co/mp3-preview/5abc6bfd4c60bdd11a3d8d2ccfecb7cf8bad11ea?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah Bones  
+Artist:  Kurt Vile 
+Album:  Bottle It In
+Preview: https://p.scdn.co/mp3-preview/d40fdb893f0adb6e2d64b1fa13390449a309c132?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah Right  
+Artist:  Vince Staples 
+Album:  Big Fish Theory
+Preview: null  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Really? Yeah!  
+Artist:  KYLE 
+Album:  Smyle
+Preview: https://p.scdn.co/mp3-preview/a43a661144362d3a906e0f2f806c4b140e2bbae3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah, I Said It  
+Artist:  Rihanna 
+Album:  ANTI
+Preview: null  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Oh Yeah (feat. HiDoraah)  
+Artist:  Young Thug 
+Album:  Slime Language
+Preview: https://p.scdn.co/mp3-preview/18d2d7b36f77548ed89ec96cc6cfe8b3220a0e23?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Mmm Yeah (feat. Pitbull)  
+Artist:  Austin Mahone 
+Album:  The Secret
+Preview: https://p.scdn.co/mp3-preview/37500242be1f681783019b2cbef6c5c22b695f6a?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Heads Will Roll - A-Trak Remix  
+Artist:  Yeah Yeah Yeahs 
+Album:  Heads Will Roll
+Preview: null  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah, I Said It  
+Artist:  Rihanna 
+Album:  ANTI (Deluxe)
+Preview: null  
+
+**************************************************************************
 User Command: node liri.js spotify-this-song  
 
 LIRI Response:  
@@ -202,26 +1065,96 @@ Album:  Classic Remixes
 Preview: https://p.scdn.co/mp3-preview/919c1e7e785733af13db8054540742ac6aede514?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
 
 **************************************************************************
-User Command: node liri.js spotify-this-song focus 
+User Command: node liri.js spotify-this-song yeah yeah  
 
 LIRI Response:  
 
 ***********************************************************************************************
                             Song Information
 ***********************************************************************************************
-Song:  Focus  
-Artist:  H.E.R. 
-Album:  H.E.R.
-Preview: https://p.scdn.co/mp3-preview/6828bff5594c63177bc20fe09ccb9f558402ef86?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+Song:  Yeah!  
+Artist:  Usher 
+Album:  Confessions (Special Edition)
+Preview: https://p.scdn.co/mp3-preview/8a5e4f8dce6b1a957e235185a4677841fcaafe90?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
 
 LIRI Response:  
 
 ***********************************************************************************************
                             Song Information
 ***********************************************************************************************
-Song:  Focus  
-Artist:  Ariana Grande 
-Album:  Focus
+Song:  YEAH RIGHT  
+Artist:  Joji 
+Album:  YEAH RIGHT
+Preview: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  YEAH RIGHT  
+Artist:  Joji 
+Album:  TEST DRIVE
+Preview: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  YEAH RIGHT  
+Artist:  Joji 
+Album:  SLOW DANCING IN THE DARK
+Preview: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  YEAH RIGHT  
+Artist:  Joji 
+Album:  TEST DRIVE
+Preview: https://p.scdn.co/mp3-preview/64c3dccfee6c252e7a25c59ed7c2e6f15e8c5547?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah Boy  
+Artist:  Kelsea Ballerini 
+Album:  The First Time
+Preview: https://p.scdn.co/mp3-preview/2f29ffb93c1b55a8e9dfbe35ce1db1d81e5dd405?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah  
+Artist:  Joe Nichols 
+Album:  Crickets
+Preview: https://p.scdn.co/mp3-preview/279cf907390f4abd4ff2a7678507bef22fd3a9e5?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  YEAH RIGHT  
+Artist:  Joji 
+Album:  CAN'T GET OVER YOU (feat. Clams Casino)
+Preview: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Hell Yeah  
+Artist:  Rev Theory 
+Album:  Light It Up
 Preview: null  
 
 LIRI Response:  
@@ -229,119 +1162,9 @@ LIRI Response:
 ***********************************************************************************************
                             Song Information
 ***********************************************************************************************
-Song:  Out of Focus  
-Artist:  Chelsea Cutler 
-Album:  Out of Focus
-Preview: https://p.scdn.co/mp3-preview/c9b4b30777d12a56e6a29ea748f7188d918f66c6?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Focus Rain  
-Artist:  Rain Makers 
-Album:  Rain
-Preview: https://p.scdn.co/mp3-preview/d827fd690b0ef60611b1cfe473b925b17cb9ceca?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Focus  
-Artist:  Charli XCX 
-Album:  Focus / No Angel
-Preview: https://p.scdn.co/mp3-preview/5c668f9e720c562840537874b4ace0d123cde637?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Focus - Netsky Remix  
-Artist:  Elias 
-Album:  Focus
-Preview: https://p.scdn.co/mp3-preview/21b326a5446ba9aaa9a6b8e41714c26fa2389f46?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Going Home  
-Artist:  Intrinsic Focus 
-Album:  Going Home
-Preview: https://p.scdn.co/mp3-preview/bbc5096a530e0860a6c3b3d0c1e3bc03a7f977d3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Focus - Yaeji Remix  
-Artist:  Charli XCX 
-Album:  Focus (Yaeji Remix)
-Preview: https://p.scdn.co/mp3-preview/a433aaad27e37409dcbb0ba7b8cd124b89a4e2e0?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Focus  
-Artist:  LUKA 
-Album:  Focus
-Preview: https://p.scdn.co/mp3-preview/442c92fe8c215e8bb17ba0bf975182f7dda976e7?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  The Lighthouse  
-Artist:  Musicboxes 
-Album:  Focus Your Brain - Deep Ambient Soundscapes Vol 1
-Preview: https://p.scdn.co/mp3-preview/34b64ac30770e9d47b246994fc01b206f7f70d11?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Focus  
-Artist:  Life of Dillon 
-Album:  Focus
-Preview: https://p.scdn.co/mp3-preview/ea60da3f8ac3efc6a44ed76c2febf9ba7bce283d?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Focus (feat. Chris Brown) - DJ Envy Remix  
-Artist:  H.E.R. 
-Album:  Focus (feat. Chris Brown) [DJ Envy Remix]
-Preview: https://p.scdn.co/mp3-preview/e98b4904ed83f90a37a58292968605d9da50423e?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Focus  
-Artist:  Ca$his 
-Album:  Focus
-Preview: https://p.scdn.co/mp3-preview/5ad0d840752339b1b7e2545d2faad6eef9ce6d0f?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Focus - Demo  
-Artist:  Sigrid 
-Album:  Raw
+Song:  Heads Will Roll  
+Artist:  Yeah Yeah Yeahs 
+Album:  It's Blitz!
 Preview: null  
 
 LIRI Response:  
@@ -349,29 +1172,59 @@ LIRI Response:
 ***********************************************************************************************
                             Song Information
 ***********************************************************************************************
-Song:  Focus On You  
+Song:  Maps  
+Artist:  Yeah Yeah Yeahs 
+Album:  Fever To Tell (Deluxe Remastered)
+Preview: null  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah Yeah (feat. 50 Cent and Murda Beatz)  
+Artist:  Don Q 
+Album:  Yeah Yeah (feat. 50 Cent and Murda Beatz)
+Preview: https://p.scdn.co/mp3-preview/5abc6bfd4c60bdd11a3d8d2ccfecb7cf8bad11ea?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah Bones  
+Artist:  Kurt Vile 
+Album:  Bottle It In
+Preview: https://p.scdn.co/mp3-preview/d40fdb893f0adb6e2d64b1fa13390449a309c132?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Yeah Right  
+Artist:  Vince Staples 
+Album:  Big Fish Theory
+Preview: null  
+
+LIRI Response:  
+
+***********************************************************************************************
+                            Song Information
+***********************************************************************************************
+Song:  Really? Yeah!  
 Artist:  KYLE 
-Album:  Beautiful Loser
-Preview: https://p.scdn.co/mp3-preview/21f62dbd82937c84fe3773f65c318e7dc98151b4?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+Album:  Smyle
+Preview: https://p.scdn.co/mp3-preview/a43a661144362d3a906e0f2f806c4b140e2bbae3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
 
 LIRI Response:  
 
 ***********************************************************************************************
                             Song Information
 ***********************************************************************************************
-Song:  simple mathematics (focus)  
-Artist:  A$AP ANT 
-Album:  The interlude
-Preview: https://p.scdn.co/mp3-preview/4a776ed39120e88153f92f19a9377e92e3ef0e86?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Focus - The Four Performance  
-Artist:  Leah Jenea 
-Album:  Focus (The Four Performance)
+Song:  Yeah, I Said It  
+Artist:  Rihanna 
+Album:  ANTI
 Preview: null  
 
 LIRI Response:  
@@ -379,314 +1232,29 @@ LIRI Response:
 ***********************************************************************************************
                             Song Information
 ***********************************************************************************************
-Song:  Focus  
-Artist:  LaShawn the Lyricist 
-Album:  Focus
-Preview: https://p.scdn.co/mp3-preview/fbe15ea07736fb30ed37706fbf503b4bf4646e51?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+Song:  Oh Yeah (feat. HiDoraah)  
+Artist:  Young Thug 
+Album:  Slime Language
+Preview: https://p.scdn.co/mp3-preview/18d2d7b36f77548ed89ec96cc6cfe8b3220a0e23?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
 
 LIRI Response:  
 
 ***********************************************************************************************
                             Song Information
 ***********************************************************************************************
-Song:  No Angel  
-Artist:  Charli XCX 
-Album:  Focus / No Angel
-Preview: https://p.scdn.co/mp3-preview/a01fdd4efcd2d67337e37a05d1b25b7844855143?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
+Song:  Mmm Yeah (feat. Pitbull)  
+Artist:  Austin Mahone 
+Album:  The Secret
+Preview: https://p.scdn.co/mp3-preview/37500242be1f681783019b2cbef6c5c22b695f6a?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
 
 LIRI Response:  
 
 ***********************************************************************************************
                             Song Information
 ***********************************************************************************************
-Song:  Hold On - Sub Focus Remix  
-Artist:  Rusko 
-Album:  Hold On
-Preview: null  
-
-**************************************************************************
-User Command: node liri.js concert-this  
-
-Query:  https://rest.bandsintown.com/artists//events?app_id=undefined 
-
-**************************************************************************
-User Command: node liri.js concert-this drake 
-
-Query:  https://rest.bandsintown.com/artists/drake/events?app_id=undefined 
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************10/26/2018************************************
-Artist:  Drake  
-Venue:  Oracle Arena 
-City:   Oakland 
-State:  CA
-Country: United States  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************10/26/2018************************************
-Artist:  Drake  
-Venue:  San Francisco City Hall 
-City:   San Francisco 
-State:  CA
-Country: United States  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************10/27/2018************************************
-Artist:  Drake  
-Venue:  Oracle Arena 
-City:   Oakland 
-State:  CA
-Country: United States  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************10/29/2018************************************
-Artist:  Drake  
-Venue:  Oracle Arena 
-City:   Oakland 
-State:  CA
-Country: United States  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/01/2018************************************
-Artist:  Drake  
-Venue:  Tacoma Dome 
-City:   Tacoma 
-State:  WA
-Country: United States  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/03/2018************************************
-Artist:  Drake  
-Venue:  Rogers Arena 
-City:   Vancouver 
-State:  
-Country: Canada  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/04/2018************************************
-Artist:  Drake  
-Venue:  Rogers Arena 
-City:   Vancouver 
-State:  
-Country: Canada  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/06/2018************************************
-Artist:  Drake  
-Venue:  Rogers Place 
-City:   Edmonton 
-State:  
-Country: Canada  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/07/2018************************************
-Artist:  Drake  
-Venue:  Rogers Place 
-City:   Edmonton 
-State:  
-Country: Canada  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/10/2018************************************
-Artist:  Drake  
-Venue:  Enterprise Center 
-City:   Saint Louis 
-State:  MO
-Country: United States  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/13/2018************************************
-Artist:  Drake  
-Venue:  AmericanAirlines Arena 
-City:   Miami 
-State:  FL
-Country: United States  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/14/2018************************************
-Artist:  Drake  
-Venue:  American Airlines Arena 
-City:   Miami 
-State:  FL
-Country: United States  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/16/2018************************************
-Artist:  Drake  
-Venue:  State Farm Arena 
-City:   Atlanta 
-State:  GA
-Country: United States  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/17/2018************************************
-Artist:  Drake  
-Venue:  State Farm Arena 
-City:   Atlanta 
-State:  GA
-Country: United States  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************11/29/2018************************************
-Artist:  Drake  
-Venue:  Chateau Le Jardin Event Venue 
-City:   Woodbridge 
-State:  
-Country: Canada  
-
-LIRI Response:  
-
-**************************************************************************
-                        Concert Information
-****************************03/08/2019************************************
-Artist:  Drake  
-Venue:  Accorhotels Arena 
-City:   Paris 
-State:  
-Country: France  
-
-**************************************************************************
-User Command: node liri.js movie-this  
-
-LIRI Response:  
-
-***************************************************************************************
-                                   Movie Information                
-***************************************************************************************
-Movie Title:  Mr. Nobody  
-Date Released:  26 Sep 2013 
-IMDB Rating:   7.9 
-Language:  English, Mohawk
-Plot:  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
-Rotten Tomatoes Rating: undefined
-Rotten Tomatoes URL:  undefined;  
-
-**************************************************************************
-User Command: node liri.js movie-this madea 
-
-LIRI Response:  
-
-***************************************************************************************
-                                   Movie Information                
-***************************************************************************************
-Movie Title:  Madea  
-Date Released:  27 Oct 2011 
-IMDB Rating:   N/A 
-Language:  English
-Plot:  N/A
-Actors: N/A
-Rotten Tomatoes Rating: undefined
-Rotten Tomatoes URL:  undefined;  
-
-**************************************************************************
-User Command: node liri.js do-what-it-says
-
-User Command: /usr/local/Cellar/node/10.12.0/bin/node,/Users/brintzamiles/gt/liri-node-app/liri.js,do-what-it-says 
-
-**************************************************************************
-User Command: node liri.js spotify-this-song I Want it That Way 
-
-LIRI Response:  Usage:
-    node liri.js concert-this "<artist_name>"
-    node liri.js spotify-this-song "<song_name>"
-    node liri.js movie-this "<movie_name>"
-    node liri.js do-what-it-says
-  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Backstreet Boys 
-Album:  The Hits--Chapter One
-Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Backstreet Boys 
-Album:  Millennium
-Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Anthem Lights 
-Album:  Covers Part IV
-Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Tyler and Mark 
-Album:  Beautiful Dreams
-Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Dynamite Boy 
-Album:  Punk Goes Pop
+Song:  Heads Will Roll - A-Trak Remix  
+Artist:  Yeah Yeah Yeahs 
+Album:  Heads Will Roll
 Preview: null  
 
 LIRI Response:  
@@ -694,148 +1262,8 @@ LIRI Response:
 ***********************************************************************************************
                             Song Information
 ***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Manuel Costa 
-Album:  I Want It That Way
-Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Ebay (Parody of "I Want It That Way" by the Backstreet Boys)  
-Artist:  "Weird Al" Yankovic 
-Album:  Poodle Hat
-Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Backstreet Boys 
-Album:  90 Sweet 90s Hits!
-Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Backstreet Boys 
-Album:  NKOTBSB
-Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Bye Bye Bye / I Want It That Way (Glee Cast Version)  
-Artist:  Glee Cast 
-Album:  Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Boyce Avenue 
-Album:  Cover Sessions, Vol. 2
-Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Steel Panther 
-Album:  I Want It That Way
+Song:  Yeah, I Said It  
+Artist:  Rihanna 
+Album:  ANTI (Deluxe)
 Preview: null  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Landon Austin & Julia Sheer 
-Album:  I Want It That Way
-Preview: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Scary Pockets 
-Album:  Nu Funk
-Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  Ebay (Parody of "I Want It That Way" by the Backstreet Boys)  
-Artist:  "Weird Al" Yankovic 
-Album:  The Essential "Weird Al" Yankovic
-Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Scott Bradlee's Postmodern Jukebox 
-Album:  Selfies on Kodachrome
-Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Backstreet Boys 
-Album:  NOW That's What I Call 90s Pop
-Preview: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  #90s Update 
-Album:  #90s Update
-Preview: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Scott Bradlee's Postmodern Jukebox 
-Album:  PMJ Is For Lovers: The Love Song Collection
-Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
-
-LIRI Response:  
-
-***********************************************************************************************
-                            Song Information
-***********************************************************************************************
-Song:  I Want It That Way  
-Artist:  Kyle Olthoff 
-Album:  I Want It That Way
-Preview: https://p.scdn.co/mp3-preview/bb5d73d1bfe8a8b38cd5278112c7022599464c67?cid=a5a6edb9fcfc4838b1ee2edc9b5d2048  
 

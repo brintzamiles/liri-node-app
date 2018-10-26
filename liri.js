@@ -18,7 +18,7 @@ var liriCommand = argv[2];
 // This code combines them into one liri argument
 var liriArg = '';
 for (var i = 3; i < argv.length; i++) {
-    liriArg += argv[i] + '';
+    liriArg += argv[i] + " ";
 }
 
 //The heartbeat of the app...interprets index 2 (command)
@@ -64,21 +64,21 @@ function retrieveBandsInTown(artist) {
         if (err) throw err;
     });
 
-    // If no concert is provided, LIRI defaults to 'Drake'
     var bandSearch;
-    if (artist === '') {
-        bandSearch = 'Drake';
-    } else {
-        bandSearch = artist;
+
+    // Replace spaces with '' for the query string
+    bandSearch = artist.split(' ').join('');
+
+    if (artist === ``) {
+        bandSearch = `NickiMinaj`;
     }
 
-    // Replace spaces with '+' for the query string
-    bandSearch = artist.split(' ').join('+');
     console.log(bandSearch);
-
     const bandsInTownAPIKey = keys.bands.BANDS_API_KEY;
     // Construct the query string
     var queryStr = `https://rest.bandsintown.com/artists/${bandSearch}/events?app_id=${bandsInTownAPIKey}`;
+    console.log(queryStr);
+
     fs.appendFile(`./log.txt`, `Query:  ${queryStr} \n\n`, (err) => {
         if (err) throw err;
     });
@@ -93,8 +93,10 @@ function retrieveBandsInTown(artist) {
     };
 
     // Send the request to BandsInTown
-    request(options, function (error, response, body) { 
-        if (error!=null) {
+    request(options, function (error, response, body) {
+        var data = JSON.parse(body);
+
+        if (error != null) {
             var errorStr1 = 'ERROR: Retrieving artist entry -- ' + error;
 
             // Append the error string to the log file
@@ -104,16 +106,15 @@ function retrieveBandsInTown(artist) {
             });
             return;
         } else {
-            
-            var data = JSON.parse(body);
             for (event in data) {
+
                 const venue = data[0].venue;
                 const eventInfo = data[event];
                 //format the date 
                 const date = moment(eventInfo.datetime).format("MM/DD/YYYY");
 
                 //Return and Print the Concert information
-                var outputStr = 
+                var outputStr =
                     `\n
 **************************************************************************
                         Concert Information
@@ -123,13 +124,15 @@ Venue:  ${eventInfo.venue.name}
 City:   ${eventInfo.venue.city} 
 State:  ${eventInfo.venue.region}
 Country: ${eventInfo.venue.country}`;
-console.log(outputStr);
+                console.log(outputStr);
 
                 // Append the output to the log file
                 fs.appendFile('./log.txt', `LIRI Response:  ${outputStr}  \n\n`, (err) => {
                     if (err) throw err;
                 });
+
             }
+
         }
     });
 }
@@ -162,11 +165,11 @@ function spotifySong(song) {
             });
             return;
         } else {
-            for (song in data.tracks.items){
-            const songInfo = data.tracks.items[song];    
+            for (song in data.tracks.items) {
+                const songInfo = data.tracks.items[song];
                 // Print the song information for each query returned
-                var outputStr = 
-                `\n
+                var outputStr =
+                    `\n
 ***********************************************************************************************
                             Song Information
 ***********************************************************************************************
@@ -174,7 +177,7 @@ Song:  ${songInfo.name}
 Artist:  ${songInfo.artists[0].name} 
 Album:  ${songInfo.album.name}
 Preview: ${songInfo.preview_url}`;
-console.log(outputStr);
+                console.log(outputStr);
 
 
                 // Append the output to the log file
@@ -201,14 +204,14 @@ function retrieveOMDBInfo(movie) {
         movieSearch = movie;
     }
 
-    // Replace spaces with '+' for the query string
-    movieSearch = movieSearch.split(' ').join('+');
+    // Replace spaces with '' for the query string
+    movieSearch = movieSearch.split(' ').join('');
     console.log(movieSearch);
     var omdbapikey = `trilogy`;
 
     // Construct the query string    
     var queryStr = `https://www.omdbapi.com/?t=${movieSearch}&y=&Plot=short&apikey=${omdbapikey}`;
-console.log(queryStr);
+    console.log(queryStr);
     // Send the request to OMDB
     request(queryStr, function (error, response, body) {
         var data = JSON.parse(body);
@@ -221,10 +224,9 @@ console.log(queryStr);
                 console.log(errorStr1);
             });
             return;
-        } 
-            else {
-                //Print the movie information
-                var outputStr = 
+        } else {
+            //Print the movie information
+            var outputStr =
                 `\n
 ***************************************************************************************
                                    Movie Information                
@@ -236,15 +238,15 @@ Language:  ${data.Language}
 Plot:  ${data.Plot}
 Actors: ${data.Actors}
 Rotten Tomatoes Rating: ${data.tomatoRating}
-Rotten Tomatoes URL:  ${data.tomatoURL};` 
+Rotten Tomatoes URL:  ${data.tomatoURL};`
 
 
-                // Append the output to the log file
-                fs.appendFile('./log.txt', `LIRI Response:  ${outputStr}  \n\n`, (err) => {
-                    if (err) throw err;
-                    console.log(outputStr);
-                });
-            
+            // Append the output to the log file
+            fs.appendFile('./log.txt', `LIRI Response:  ${outputStr}  \n\n`, (err) => {
+                if (err) throw err;
+                console.log(outputStr);
+            });
+
         }
     });
 }
@@ -265,7 +267,7 @@ function doWhatItSays() {
             // Split out the command name and the parameter name
             var cmdString = data.split(',');
             var command = cmdString[0].trim();
-            
+
             var param = cmdString[1].trim();
             console.log(cmdString);
             console.log(command);
@@ -288,4 +290,3 @@ function doWhatItSays() {
         }
     });
 }
-
