@@ -11,7 +11,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ## Acceptable search strings
 Names of artists, songs, or movies do not need to be in quotes: 
 
-### Search Type:  [Concert] When given an artist name, this seach will return upcoming concerts/dates/venues.
+### Search by [Concert] 
+#### When given an artist name, this seach will return upcoming concerts/dates/venues.
 (https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this-with-parameter.png) 
 Command line:  node liri.js concert-this [artist name] 
 Returns:   Date, Venue, Location
@@ -20,7 +21,8 @@ Default artist when there is no concert parameter specified is 'Nicki Minaj'; (h
 Command line:  node liri.js concert-this [artist name] 
 Returns:   Date, Venue, Location
 
-### Search Type:  [Song] When given a song name, this search will return song information (song, artist, album, preview)
+### Search by [Song] 
+#### When given a song name, this search will return song information (song, artist, album, preview)
 * (No Parameter/Default)
 
 Default song when there is no song parameter specified is 'The Sign Ace Of Base';   (https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-default.png) 
@@ -31,8 +33,8 @@ Default song when there is no song parameter specified is 'The Sign Ace Of Base'
 * Command line:  node liri.js spotify-this-song [song and/or artist name] 
 * Returns:   Artist, Song, Album, Preview
 
-### Search Type:  [Movie]  When given a movie, this search will return Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
-
+### Search by [Movie]  
+#### When given a movie, this search will return Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
 * (With Movie Parameter) 
 (https://github.com/brintzamiles/liri-node-app/blob/master/images/movie-this-with-parameter.png)  
 * Command line:  node liri.js movie-this [movie name] parameter.PNG
