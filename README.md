@@ -15,7 +15,7 @@ Names of artists, songs, or movies do not need to be in quotes:
 #### When given an artist name, this seach will return upcoming concerts/dates/venues.
 ##### (With a Artist Parameter)
 * Command line:  node liri.js concert-this [artist name] 
-* (https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this-with-parameter.png) 
+* (Screenshot of Results:  https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this-with-parameter.png) 
 * Returns:   Date, Venue, Location
 
 ##### (No Parameter/Default)
