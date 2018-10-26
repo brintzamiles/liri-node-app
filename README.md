@@ -21,7 +21,7 @@ Names of artists, songs, or movies do not need to be in quotes:
 ##### (No Parameter/Default)
 * Command line:  node liri.js concert-this [artist name] 
 * Default artist when there is no concert parameter specified is 'Nicki Minaj'; 
-* (https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this-default.png) 
+* Screenshot of Results:  (https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this-default.png) 
 * Returns:   Date, Venue, Location
 
 ### Search by [Song] 
@@ -29,31 +29,31 @@ Names of artists, songs, or movies do not need to be in quotes:
 ##### (No Parameter/Default)
 * Command line:  node liri.js spotify-this-song 
 * Default song when there is no song parameter specified is 'The Sign Ace Of Base';   
-* (https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-default.png) 
+* Screenshot of Results:  https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-default.png) 
 * Returns:   Artist, Song, Album, Preview
 
 ##### (With a Song Parameter)
 * Command line:  node liri.js spotify-this-song [song and/or artist name] 
-* (https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-with-parameter.png)
+* Screenshot of Results:  (https://github.com/brintzamiles/liri-node-app/blob/master/images/spotify-this-song-with-parameter.png)
 * Returns:   Artist, Song, Album, Preview
 
 ### Search by [Movie]  
 #### When given a movie, this search will return Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
 ##### (With Movie Parameter) 
 * Command line:  node liri.js movie-this 
-* (https://github.com/brintzamiles/liri-node-app/blob/master/images/movie-this-with-parameter.png)  
+* Screenshot of Results:  (https://github.com/brintzamiles/liri-node-app/blob/master/images/movie-this-with-parameter.png)  
 * Returns:  Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
 
 ##### (No Parameter/Default)
 * Command line:  node liri.js movie-this
-* (https://github.com/brintzamiles/liri-node-app/blob/master/images/movie-this-default.png)  
+* Screenshot of Results:  (https://github.com/brintzamiles/liri-node-app/blob/master/images/movie-this-default.png)  
 * Returns:  Title, Year, IMDB Rating, Rottom Tomatoes Rating, Country, Language, Plot, Actors
 
 
 ### Search Type:  [Do as you're told (From File)]
 
 * Command line:  node liri.js do-what-it-says
-* (https://github.com/brintzamiles/liri-node-app/blob/master/images/do-what-it-says.png) 
+* Screenshot of Results:  (https://github.com/brintzamiles/liri-node-app/blob/master/images/do-what-it-says.png) 
 * Returns:  Results from query contained in the random.txt file
 
 ## Technologies
