@@ -13,13 +13,16 @@ Names of artists, songs, or movies do not need to be in quotes:
 
 ### Search by [Concert] 
 #### When given an artist name, this seach will return upcoming concerts/dates/venues.
-(https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this-with-parameter.png) 
-Command line:  node liri.js concert-this [artist name] 
-Returns:   Date, Venue, Location
+##### (With a Artist Parameter)
+* Command line:  node liri.js concert-this [artist name] 
+* (https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this-with-parameter.png) 
+* Returns:   Date, Venue, Location
 
-Default artist when there is no concert parameter specified is 'Nicki Minaj'; (https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this-default.png) 
-Command line:  node liri.js concert-this [artist name] 
-Returns:   Date, Venue, Location
+##### (No Parameter/Default)
+* Command line:  node liri.js concert-this [artist name] 
+* Default artist when there is no concert parameter specified is 'Nicki Minaj'; 
+* (https://github.com/brintzamiles/liri-node-app/blob/master/images/concert-this-default.png) 
+* Returns:   Date, Venue, Location
 
 ### Search by [Song] 
 #### When given a song name, this search will return song information (song, artist, album, preview)
